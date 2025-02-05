@@ -1,0 +1,81 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?"
+      ]
+    },
+    {
+      "tag": "store_hours",
+      "patterns": [
+        "What are your working hours?",
+        "When do you open?",
+        "Store opening hours",
+        "Are you open on weekends?"
+      ],
+      "responses": [
+        "We are open from 8 AM to 10 PM, Monday to Sunday.",
+        "Our working hours are 8 AM to 10 PM every day."
+      ]
+    },
+    {
+      "tag": "product_inquiry",
+      "patterns": [
+        "Do you have fresh bread?",
+        "Can I buy milk here?",
+        "Do you sell organic vegetables?",
+        "Is there gluten-free pasta available?"
+      ],
+      "responses": [
+        "Yes, we have fresh bread and a variety of dairy products, including milk.",
+        "We offer a selection of organic vegetables and gluten-free products."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is your store located?",
+        "Store address",
+        "How can I find your supermarket?"
+      ],
+      "responses": [
+        "We are located at 123 Market Street, Downtown.",
+        "You can find us at 123 Market Street, right next to the central park."
+      ]
+    },
+    {
+      "tag": "offers_discounts",
+      "patterns": [
+        "Are there any discounts today?",
+        "Do you have special offers?",
+        "Tell me about your current deals."
+      ],
+      "responses": [
+        "Yes, we have special discounts on dairy products and fresh produce this week.",
+        "Check out our latest deals on the offers section of our website."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Thanks, bye"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you soon! Take care."
+      ]
+    }
+  ]
+}

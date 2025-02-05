@@ -1,0 +1,28 @@
+Timestamp: 2025-02-05 21:50:09
+User: Hi
+Bot: Hi there! What can I do for you?
+--------------------------------------------------
+Timestamp: 2025-02-05 22:11:11
+User: Ji
+Bot: You can find us at 123 Market Street, right next to the central park.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:11:17
+User: Yu
+Bot: We are located at 123 Market Street, Downtown.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:11:22
+User: You
+Bot: We are located at 123 Market Street, Downtown.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:11:24
+User: Hi
+Bot: Hi there! What can I do for you?
+--------------------------------------------------
+Timestamp: 2025-02-05 22:11:30
+User: Boot
+Bot: You can find us at 123 Market Street, right next to the central park.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:11:38
+User: Cheese
+Bot: You can find us at 123 Market Street, right next to the central park.
+--------------------------------------------------
