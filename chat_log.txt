@@ -26,3 +26,23 @@ Timestamp: 2025-02-05 22:11:38
 User: Cheese
 Bot: You can find us at 123 Market Street, right next to the central park.
 --------------------------------------------------
+Timestamp: 2025-02-05 22:42:24
+User: Hello
+Bot: Hello! How can I assist you today?
+--------------------------------------------------
+Timestamp: 2025-02-05 22:42:57
+User: what time do you open?
+Bot: We are open from 8 AM to 10 PM, Monday to Sunday.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:43:45
+User: do you know Ronaldo?
+Bot: We offer a selection of organic vegetables and gluten-free products.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:44:29
+User: do you have fresh bread
+Bot: Yes, we have fresh bread and a variety of dairy products, including milk.
+--------------------------------------------------
+Timestamp: 2025-02-05 22:44:48
+User: are you vegan?
+Bot: You can find us at 123 Market Street, right next to the central park.
+--------------------------------------------------
