@@ -78,8 +78,8 @@ async def handle_message(update: Update, context: CallbackContext):
     await update.message.reply_text(response)
 
 # Your Telegram Bot Token (obtain from BotFather)
-#TELEGRAM_BOT_TOKEN = 'your_telegram_bot_token_here'
-TELEGRAM_BOT_TOKEN = '7613532262:AAFoNMCIj94RdPN5oyHldRYO463nrySwUQo'
+TELEGRAM_BOT_TOKEN = 'your_telegram_bot_token_here'
+#TELEGRAM_BOT_TOKEN = '7613532262:AAFoNMCIj94RdPN5oyHldRYO463nrySwUQo'
 
 
 # Create the Application instance using the builder (for python-telegram-bot version 20+)
